@@ -1,0 +1,2 @@
+[workspace]
+members = ["bonfire","bonfire_shared","bonfire_server"]
